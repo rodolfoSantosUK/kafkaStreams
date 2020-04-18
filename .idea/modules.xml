@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/kafkaStreams.iml" filepath="$PROJECT_DIR$/.idea/kafkaStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams-starter-project/streams-starter-project.iml" filepath="$PROJECT_DIR$/streams-starter-project/streams-starter-project.iml" />
     </modules>
   </component>
 </project>
